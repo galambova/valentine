@@ -5,7 +5,7 @@
     try {
         const response = await fetch(versionUrl);
         if (!response.ok) {
-            console.warn("Could not fetch version information.");
+            console.warn("Could not fetch version information. ");
             return;
         }
         const data = await response.json();
