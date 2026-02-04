@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Si se uklikl, ne?",
+    "Šak mooore, nedělej",
+    "Hej ale už",
+    "Nooootáák...",
+    "Yáááááy, Marženko, nedělej!",
+    "Ještě ti dám jednu šanci si to promyslet!",
+    "Dobře, tak ještě jednu",
+    "Snad nechceš, abych byla smutná",
+    "Fááááájn, dobře, už se ptát nebudu",
+    "Ale nottááák, katzé! ❤️ (dostaneš knee, jestli dáš ještě ne xd)"
 ];
 
 let messageIndex = 0;
